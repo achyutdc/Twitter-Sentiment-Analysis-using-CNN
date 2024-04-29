@@ -20,5 +20,10 @@ Python language and Jupyter Notebook will be used for implementation, supporting
 ### Source of Data
 The Sentiment 140 dataset can be found [here](https://www.kaggle.com/kazanova/sentiment140).
 
+
 ### Results
-*(Results will be added here upon completion of the project)*
+
+Here is the confusion matrix plot showing the model's performance:
+
+![Confusion Matrix](path/to/your/image.png)
+
