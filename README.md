@@ -25,5 +25,5 @@ The Sentiment 140 dataset can be found [here](https://www.kaggle.com/kazanova/se
 
 Here is the confusion matrix plot showing the model's performance:
 
-![Confusion Matrix](path/to/your/image.png)
+![Confusion Matrix](confmat.png)
 
